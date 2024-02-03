@@ -9,6 +9,9 @@ All about css pseudo-class `:has()`
 - Baseline: Limited availability
 
 ## Articles
+## 2024
+- [Learn CSS :has() selector by examples: 5 top use cases](https://bejamas.io/blog/learn-css-has-selector-by-examples-top-use-cases/)
+
 ### 2023
 - [Conditional CSS with :has and :nth-last-child](https://ishadeed.com/article/conditional-css-has-nth-last-child)
 - [Locking scroll with :has()](https://robbowen.digital/wrote-about/locking-scroll-with-has/)
