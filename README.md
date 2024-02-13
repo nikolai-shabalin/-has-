@@ -13,6 +13,7 @@ All about css pseudo-class `:has()`
 - [Learn CSS :has() selector by examples: 5 top use cases](https://bejamas.io/blog/learn-css-has-selector-by-examples-top-use-cases/)
 
 ### 2023
+- [Locking scroll with `:has()`](https://robbowen.digital/wrote-about/locking-scroll-with-has/)
 - [Conditional CSS with :has and :nth-last-child](https://ishadeed.com/article/conditional-css-has-nth-last-child)
 - [Locking scroll with :has()](https://robbowen.digital/wrote-about/locking-scroll-with-has/)
 
